@@ -83,7 +83,7 @@ The contents of this project are divided into various categories which are given
 
 15.	Conclusion
 
-16.	Inferences
+16.	References
 
 
 
