@@ -145,7 +145,7 @@ regression line. This method of finding the parameters of the model and thus reg
 In this project, I employ Multiple Linear Regression technique where I have one dependent variable and more than one independent variables.
 
 
-================================================================================
+=================================================================================
 
 
 ## 3. Independent and dependent variables
@@ -318,7 +318,7 @@ As described earlier, the problem is to estimate the relative CPU performance of
 `df = pd.read_csv(filename, header = None)`
 
 
-================================================================================
+=================================================================================
 
 
 ## 9. Exploratory Data Analysis
@@ -486,7 +486,7 @@ When it is clsoe to -1, it means that there is a strong negative correlation. So
 `plt.show()`
 
 
-==================================================================================
+=================================================================================
 
 
 ## 10. Detect problems within variables
